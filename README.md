@@ -13,10 +13,10 @@ Each project is a hands-on exercise in an AI or engineering topic, with reproduc
 
 | Project | What it shows |
 |---|---|
-| [portafolio-rag-guias-close](https://github.com/close-cr/portafolio-rag-guias-close) | A dependency-free RAG bot (BM25) that cites its sources and refuses off-topic questions, evaluated on 43 questions with known answers |
-| [portafolio-ml-cancer-sklearn](https://github.com/close-cr/portafolio-ml-cancer-sklearn) | Well-evaluated supervised learning: leakage-free pipeline, cross-validation, and a threshold chosen without touching the test set |
-| [portafolio-aws-mi-stack](https://github.com/close-cr/portafolio-aws-mi-stack) | A real web app explained with AWS services: security, high availability, and costs from the official price list |
-| [portafolio-rediseno-cont-finance](https://github.com/close-cr/portafolio-rediseno-cont-finance) | Systems design: what breaks first at 100× scale, with reproducible estimates and a phased plan |
+| [portfolio-rag-close-guides](https://github.com/close-cr/portfolio-rag-close-guides) | A dependency-free RAG bot (BM25) that cites its sources and refuses off-topic questions, evaluated on 43 questions with known answers |
+| [portfolio-ml-tumor-classifier](https://github.com/close-cr/portfolio-ml-tumor-classifier) | Well-evaluated supervised learning: leakage-free pipeline, cross-validation, and a threshold chosen without touching the test set |
+| [portfolio-aws-my-stack](https://github.com/close-cr/portfolio-aws-my-stack) | A real web app explained with AWS services: security, high availability, and costs from the official price list |
+| [portfolio-redesign-cont-finance](https://github.com/close-cr/portfolio-redesign-cont-finance) | Systems design: what breaks first at 100× scale, with reproducible estimates and a phased plan |
 
 🎬 **Video walkthrough** of all four projects (English): [media/portfolio-walkthrough.mp4](media/portfolio-walkthrough.mp4)
 
